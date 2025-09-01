@@ -1,0 +1,9 @@
+MYSQL
+===============================================================================
+record = each row in the table
+field = each column in the table
+entity = smallest set of information
+	horizontal entity = row
+	vertical entity = column
+	sometimes the table itself is refered as entity
+==============================================================================
