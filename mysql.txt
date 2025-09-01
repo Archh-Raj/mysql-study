@@ -1,9 +1,25 @@
 MYSQL
-===============================================================================
+================================================================================
 record = each row in the table
 field = each column in the table
 entity = smallest set of information
 	horizontal entity = row
 	vertical entity = column
 	sometimes the table itself is refered as entity
-==============================================================================
+================================================================================
+SQL is a declarative langauge 
+	unlike procedural language(C++) where you need to explicitly tell the 
+	computer about how particular task should be done, here our focus 
+	is on the result you want to obtain
+
+	The SQL Optimizer will separate your task into smaller steps and do the 	to give the dessired output.
+================================================================================
+SQL has:
+	DDL -> Data Definition language
+	DML -> Data Manipulation language
+	DCL -> Data Control language
+	TCL -> Transction Control Language
+================================================================================DDL:
+	a set of statements that allows user to define or modify data structures and objects, such as tables.
+--------------------------------------------------------------------------------CREATE statement:
+	creating entire databased and database objects as tables
