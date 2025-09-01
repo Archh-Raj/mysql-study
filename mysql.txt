@@ -12,14 +12,18 @@ SQL is a declarative langauge
 	computer about how particular task should be done, here our focus 
 	is on the result you want to obtain
 
-	The SQL Optimizer will separate your task into smaller steps and do the 	to give the dessired output.
+	The SQL Optimizer will separate your task into smaller steps and do the
+	to give the dessired output.
 ================================================================================
 SQL has:
 	DDL -> Data Definition language
 	DML -> Data Manipulation language
 	DCL -> Data Control language
 	TCL -> Transction Control Language
-================================================================================DDL:
-	a set of statements that allows user to define or modify data structures and objects, such as tables.
---------------------------------------------------------------------------------CREATE statement:
+================================================================================
+DDL:
+	a set of statements that allows user to define or modify data structures
+	and objects, such as tables.
+--------------------------------------------------------------------------------
+CREATE statement:
 	creating entire databased and database objects as tables
